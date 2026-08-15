@@ -55,14 +55,14 @@ la publicación.
 ```
 ╭─ elimorals · agosto 2026 ────────────────────────────────────────╮
 │                                                                  │
-│   1 024 contribuciones   943 commits · 59 pull requests          │
+│   1 027 contribuciones   946 commits · 59 pull requests          │
 │        26 repositorios   12 públicos · 14 privados               │
 │      24.5 MB de código   Python + TypeScript, sobre todo         │
 │      5 433 repos con ★   curados desde julio de 2020             │
 │                                                                  │
 ├─ lo que construyo · 24.5 MB en 26 repos ─────────────────────────┤
 │                                                                  │
-│  Python       ████████████████████████████████████████  44.9%    │
+│  Python       ████████████████████████████████████████  45.0%    │
 │  TypeScript   ███████████████████████████████           35.3%    │
 │  JavaScript   ███████                                    8.4%    │
 │  Jupyter      ███                                        3.1%    │
