@@ -13,6 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # con el PAT, el push cuenta como actividad tuya: GitHub desactiva los
+          # workflows programados tras 60 días si solo hay commits de bot
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Regenerar la tarjeta desde la API
         env:
