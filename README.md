@@ -87,13 +87,6 @@ Roadmap por fases.
 Me interesan los agentes **verificables**: los míos devuelven citas rastreables
 en vez de texto plausible, y la lógica crítica corre sin LLM en el camino.
 
-### Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=elimorals&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&hide_title=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=elimorals&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" alt="Estadísticas de GitHub de elimorals" width="450">
-</picture>
-
 ### Contacto
 
 [LinkedIn](https://www.linkedin.com/in/elias-rashid-morales-mendoza/) ·
