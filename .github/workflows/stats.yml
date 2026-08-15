@@ -1,0 +1,33 @@
+name: stats
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # cada lunes, 06:00 UTC
+  workflow_dispatch:       # y a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Regenerar la tarjeta desde la API
+        env:
+          # PAT propio: GITHUB_TOKEN no puede leer `viewer` ni los repos privados
+          GH_TOKEN: ${{ secrets.STATS_TOKEN }}
+        run: python3 card.py --write
+
+      - name: Publicar si cambió algo
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet README.md .stars-cache.json; then
+            echo "Sin cambios en las stats."
+          else
+            git add README.md .stars-cache.json
+            git commit -m "chore(stats): actualiza tarjeta"
+            git push
+          fi
