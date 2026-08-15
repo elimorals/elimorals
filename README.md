@@ -31,51 +31,65 @@ y trámites de gobierno. Automatización de lo que en México todavía se hace a
 Orquestador multi-agente para aduanas y comercio exterior: sub-agentes,
 Critic + RefineLoop, memoria en 4 capas y framework de evaluación.
 
-### 5 433 repos con estrella, y dos herramientas para no ahogarme en ellos
+### 5 433 repos con estrella, y las herramientas para no ahogarme en ellos
 
 Llevo años coleccionando repositorios. Llegó un punto en que la colección dejó de
 ser útil por su propio tamaño, así que construí las herramientas para domarla:
 
 **[Github-star-X](https://github.com/elimorals/Github-star-X)** · `Python`
-Guarda automáticamente en GitHub los repos que descubro vía stars desde una cuenta de X.
-El pipeline de captura.
+Guarda automáticamente en GitHub los repos que descubro vía stars desde una cuenta
+de X. El pipeline de captura.
 
 **[StarGraph](https://github.com/elimorals/Github_graph_obsidian)** · `TypeScript` · `Python`
 Analiza esos repos con estrella y genera un grafo de conocimiento navegable:
-perfiles técnicos extraídos con Claude, embeddings en Pinecone, grafo en Cytoscape.js
-sobre FastAPI + Next.js 15. La capa de sentido.
+perfiles técnicos extraídos con Claude, embeddings en Pinecone y grafo en
+Cytoscape.js sobre FastAPI + Next.js 15. La capa de sentido.
 
 **[Contenido_automatizado](https://github.com/elimorals/Contenido_automatizado)** · `Python`
-Pipeline de creación de contenido automatizado con agentes de IA, de la idea a la publicación.
+Pipeline de creación de contenido automatizado con agentes de IA, de la idea a
+la publicación.
 
-Esto es lo que hay dentro de esa colección — el mapa de lo que leo, uso y persigo:
+### Stats
 
+<!-- stats:start -->
 ```
-╭─ 5 433 repos con estrella · por lenguaje ────────────────────────╮
+╭─ elimorals · agosto 2026 ────────────────────────────────────────╮
 │                                                                  │
-│  Python      ███████████████████████████████████   35.4%         │
-│  TypeScript  ███████████████████                   18.8%         │
-│  JavaScript  ███████                                6.7%         │
-│  Go          █████                                  5.1%         │
-│  C++         ████                                   4.4%         │
-│  Rust        ████                                   4.4%         │
-│  Jupyter     ████                                   3.7%         │
-│  Swift       ███                                    2.8%         │
-│  Java        ███                                    2.8%         │
-│  Shell       ██                                     2.4%         │
-│  C           ██                                     2.1%         │
-│  Kotlin      ██                                     1.6%         │
+│   1 024 contribuciones   943 commits · 59 pull requests          │
+│        26 repositorios   12 públicos · 14 privados               │
+│      24.5 MB de código   Python + TypeScript, sobre todo         │
+│      5 433 repos con ★   curados desde julio de 2020             │
 │                                                                  │
-├─ por tema ───────────────────────────────────────────────────────┤
+├─ lo que construyo · 24.5 MB en 26 repos ─────────────────────────┤
+│                                                                  │
+│  Python       ████████████████████████████████████████  44.9%    │
+│  TypeScript   ███████████████████████████████           35.3%    │
+│  JavaScript   ███████                                    8.4%    │
+│  Jupyter      ███                                        3.1%    │
+│  Astro        ██                                         2.5%    │
+│  PLpgSQL      ██                                         1.7%    │
+│                                                                  │
+├─ lo que sigo · 5 433 repos con estrella ─────────────────────────┤
+│                                                                  │
+│  Python       █████████████████████████████             33.0%    │
+│  TypeScript   ████████████████                          17.5%    │
+│  JavaScript   ██████                                     6.2%    │
+│  Go           ████                                       4.7%    │
+│  C++          ████                                       4.1%    │
+│  Rust         ████                                       4.1%    │
 │                                                                  │
 │  ai 423 · llm 371 · machine-learning 223 · mcp 221               │
-│  ai-agents 220 · react 206 · claude-code 205 · deep-learning 162  │
-│  android 157 · cli 147 · self-hosted 144 · rust 133              │
-│  docker 126 · openai 126 · pytorch 105 · ios 107                 │
-│  mcp-server 97 · security 96 · rag 82 · kubernetes 70            │
+│  ai-agents 220 · react 206 · claude-code 205                     │
+│  deep-learning 162 · android 157 · claude 156 · cli 147          │
+│  self-hosted 144 · docker 126 · openai 126 · macos 108           │
 │                                                                  │
 ╰──────────────────────────────────────────────────────────────────╯
 ```
+<!-- stats:end -->
+
+<sub>Bytes de código de mis 26 repos, privados incluidos · temas de mi colección
+de repos con estrella · generado desde la API con
+<a href="https://github.com/elimorals/elimorals/blob/main/card.py">card.py</a></sub>
 
 ### Cómo trabajo
 

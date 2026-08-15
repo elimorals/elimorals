@@ -1,0 +1,43 @@
+{
+  "total": 5433,
+  "langs": {
+    "Python": 1793,
+    "TypeScript": 953,
+    "JavaScript": 339,
+    "Go": 257,
+    "C++": 222,
+    "Rust": 222,
+    "Jupyter Notebook": 186,
+    "Swift": 140,
+    "Java": 140,
+    "Shell": 122,
+    "C": 106,
+    "HTML": 92
+  },
+  "topics": {
+    "ai": 423,
+    "llm": 371,
+    "machine-learning": 223,
+    "mcp": 221,
+    "ai-agents": 220,
+    "react": 206,
+    "claude-code": 205,
+    "deep-learning": 162,
+    "android": 157,
+    "claude": 156,
+    "cli": 147,
+    "self-hosted": 144,
+    "docker": 126,
+    "openai": 126,
+    "macos": 108,
+    "ios": 107,
+    "pytorch": 105,
+    "linux": 101,
+    "developer-tools": 97,
+    "mcp-server": 97,
+    "security": 96,
+    "windows": 86,
+    "codex": 85,
+    "rag": 82
+  }
+}
