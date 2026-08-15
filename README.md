@@ -31,6 +31,52 @@ y trámites de gobierno. Automatización de lo que en México todavía se hace a
 Orquestador multi-agente para aduanas y comercio exterior: sub-agentes,
 Critic + RefineLoop, memoria en 4 capas y framework de evaluación.
 
+### 5 433 repos con estrella, y dos herramientas para no ahogarme en ellos
+
+Llevo años coleccionando repositorios. Llegó un punto en que la colección dejó de
+ser útil por su propio tamaño, así que construí las herramientas para domarla:
+
+**[Github-star-X](https://github.com/elimorals/Github-star-X)** · `Python`
+Guarda automáticamente en GitHub los repos que descubro vía stars desde una cuenta de X.
+El pipeline de captura.
+
+**[StarGraph](https://github.com/elimorals/Github_graph_obsidian)** · `TypeScript` · `Python`
+Analiza esos repos con estrella y genera un grafo de conocimiento navegable:
+perfiles técnicos extraídos con Claude, embeddings en Pinecone, grafo en Cytoscape.js
+sobre FastAPI + Next.js 15. La capa de sentido.
+
+**[Contenido_automatizado](https://github.com/elimorals/Contenido_automatizado)** · `Python`
+Pipeline de creación de contenido automatizado con agentes de IA, de la idea a la publicación.
+
+Esto es lo que hay dentro de esa colección — el mapa de lo que leo, uso y persigo:
+
+```
+╭─ 5 433 repos con estrella · por lenguaje ────────────────────────╮
+│                                                                  │
+│  Python      ███████████████████████████████████   35.4%         │
+│  TypeScript  ███████████████████                   18.8%         │
+│  JavaScript  ███████                                6.7%         │
+│  Go          █████                                  5.1%         │
+│  C++         ████                                   4.4%         │
+│  Rust        ████                                   4.4%         │
+│  Jupyter     ████                                   3.7%         │
+│  Swift       ███                                    2.8%         │
+│  Java        ███                                    2.8%         │
+│  Shell       ██                                     2.4%         │
+│  C           ██                                     2.1%         │
+│  Kotlin      ██                                     1.6%         │
+│                                                                  │
+├─ por tema ───────────────────────────────────────────────────────┤
+│                                                                  │
+│  ai 423 · llm 371 · machine-learning 223 · mcp 221               │
+│  ai-agents 220 · react 206 · claude-code 205 · deep-learning 162  │
+│  android 157 · cli 147 · self-hosted 144 · rust 133              │
+│  docker 126 · openai 126 · pytorch 105 · ios 107                 │
+│  mcp-server 97 · security 96 · rag 82 · kubernetes 70            │
+│                                                                  │
+╰──────────────────────────────────────────────────────────────────╯
+```
+
 ### Cómo trabajo
 
 `Python` · `TypeScript` · `MCP` · `RAG` · `LLMs locales` · `FastAPI` · `Next.js`
