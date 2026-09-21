@@ -55,10 +55,10 @@ la publicación.
 ```
 ╭─ elimorals · septiembre 2026 ────────────────────────────────────╮
 │                                                                  │
-│   1 853 contribuciones   1534 commits · 296 pull requests        │
+│   1 973 contribuciones   1613 commits · 338 pull requests        │
 │        27 repositorios   12 públicos · 15 privados               │
 │      26.3 MB de código   Python + TypeScript, sobre todo         │
-│      5 595 repos con ★   curados desde julio de 2020             │
+│      5 606 repos con ★   curados desde julio de 2020             │
 │                                                                  │
 ├─ lo que construyo · 26.3 MB en 27 repos ─────────────────────────┤
 │                                                                  │
@@ -69,19 +69,19 @@ la publicación.
 │  PLpgSQL      ██                                         2.5%    │
 │  Astro        ██                                         2.3%    │
 │                                                                  │
-├─ lo que sigo · 5 595 repos con estrella ─────────────────────────┤
+├─ lo que sigo · 5 606 repos con estrella ─────────────────────────┤
 │                                                                  │
 │  Python       ██████████████████████████████            32.7%    │
 │  TypeScript   ████████████████                          17.7%    │
-│  JavaScript   ██████                                     6.3%    │
+│  JavaScript   ██████                                     6.2%    │
 │  Go           ████                                       4.8%    │
 │  Rust         ████                                       4.4%    │
 │  C++          ████                                       3.9%    │
 │                                                                  │
-│  ai 437 · llm 392 · ai-agents 239 · mcp 238                      │
-│  machine-learning 224 · claude-code 218 · react 210              │
-│  deep-learning 163 · claude 160 · android 160 · cli 153          │
-│  self-hosted 151 · openai 130 · docker 128 · macos 114           │
+│  ai 438 · llm 393 · ai-agents 242 · mcp 239                      │
+│  machine-learning 224 · claude-code 219 · react 210              │
+│  deep-learning 163 · android 161 · claude 159 · cli 154          │
+│  self-hosted 151 · openai 130 · docker 128 · macos 116           │
 │                                                                  │
 ╰──────────────────────────────────────────────────────────────────╯
 ```
