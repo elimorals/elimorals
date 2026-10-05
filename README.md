@@ -53,35 +53,35 @@ la publicación.
 
 <!-- stats:start -->
 ```
-╭─ elimorals · septiembre 2026 ────────────────────────────────────╮
+╭─ elimorals · octubre 2026 ───────────────────────────────────────╮
 │                                                                  │
-│   2 105 contribuciones   1697 commits · 387 pull requests        │
-│        27 repositorios   12 públicos · 15 privados               │
-│      26.6 MB de código   Python + TypeScript, sobre todo         │
-│      5 621 repos con ★   curados desde julio de 2020             │
+│   2 477 contribuciones   2010 commits · 442 pull requests        │
+│        31 repositorios   12 públicos · 19 privados               │
+│      31.1 MB de código   TypeScript + Python, sobre todo         │
+│      5 677 repos con ★   curados desde julio de 2020             │
 │                                                                  │
-├─ lo que construyo · 26.6 MB en 27 repos ─────────────────────────┤
+├─ lo que construyo · 31.1 MB en 31 repos ─────────────────────────┤
 │                                                                  │
-│  Python       ████████████████████████████████████████  43.1%    │
-│  TypeScript   ██████████████████████████████████        36.9%    │
-│  JavaScript   ████████                                   8.1%    │
-│  Jupyter      ███                                        2.8%    │
-│  PLpgSQL      ███                                        2.7%    │
-│  Astro        ██                                         2.3%    │
+│  TypeScript   ████████████████████████████████████████  41.0%    │
+│  Python       ███████████████████████████████████████   40.2%    │
+│  JavaScript   ███████                                    7.0%    │
+│  PLpgSQL      ████                                       4.0%    │
+│  Jupyter      ██                                         2.4%    │
+│  Astro        ██                                         2.0%    │
 │                                                                  │
-├─ lo que sigo · 5 621 repos con estrella ─────────────────────────┤
+├─ lo que sigo · 5 677 repos con estrella ─────────────────────────┤
 │                                                                  │
-│  Python       ██████████████████████████████            32.8%    │
-│  TypeScript   ████████████████                          17.8%    │
+│  Python       ████████████████████████████████          32.6%    │
+│  TypeScript   █████████████████                         17.8%    │
 │  JavaScript   ██████                                     6.2%    │
-│  Go           █████                                      4.9%    │
+│  Go           █████                                      5.2%    │
 │  Rust         ████                                       4.4%    │
 │  C++          ████                                       3.9%    │
 │                                                                  │
-│  ai 438 · llm 395 · ai-agents 245 · mcp 241                      │
-│  machine-learning 225 · claude-code 222 · react 210              │
-│  deep-learning 162 · android 161 · claude 159 · cli 156          │
-│  self-hosted 153 · openai 129 · docker 128 · macos 118           │
+│  ai 443 · llm 400 · ai-agents 252 · mcp 245                      │
+│  machine-learning 225 · claude-code 224 · react 215              │
+│  android 166 · deep-learning 162 · cli 159 · claude 159          │
+│  self-hosted 156 · docker 135 · openai 129 · macos 119           │
 │                                                                  │
 ╰──────────────────────────────────────────────────────────────────╯
 ```
