@@ -55,33 +55,33 @@ la publicación.
 ```
 ╭─ elimorals · octubre 2026 ───────────────────────────────────────╮
 │                                                                  │
-│   2 477 contribuciones   2010 commits · 442 pull requests        │
+│   2 686 contribuciones   2151 commits · 510 pull requests        │
 │        31 repositorios   12 públicos · 19 privados               │
-│      31.1 MB de código   TypeScript + Python, sobre todo         │
-│      5 677 repos con ★   curados desde julio de 2020             │
+│      31.7 MB de código   TypeScript + Python, sobre todo         │
+│      5 711 repos con ★   curados desde julio de 2020             │
 │                                                                  │
-├─ lo que construyo · 31.1 MB en 31 repos ─────────────────────────┤
+├─ lo que construyo · 31.7 MB en 31 repos ─────────────────────────┤
 │                                                                  │
-│  TypeScript   ████████████████████████████████████████  41.0%    │
-│  Python       ███████████████████████████████████████   40.2%    │
-│  JavaScript   ███████                                    7.0%    │
-│  PLpgSQL      ████                                       4.0%    │
+│  TypeScript   ████████████████████████████████████████  41.5%    │
+│  Python       ███████████████████████████████████████   40.0%    │
+│  JavaScript   ███████                                    6.9%    │
+│  PLpgSQL      ████                                       3.9%    │
 │  Jupyter      ██                                         2.4%    │
-│  Astro        ██                                         2.0%    │
+│  Astro        ██                                         1.9%    │
 │                                                                  │
-├─ lo que sigo · 5 677 repos con estrella ─────────────────────────┤
+├─ lo que sigo · 5 711 repos con estrella ─────────────────────────┤
 │                                                                  │
-│  Python       ████████████████████████████████          32.6%    │
+│  Python       ███████████████████████████████           32.5%    │
 │  TypeScript   █████████████████                         17.8%    │
 │  JavaScript   ██████                                     6.2%    │
-│  Go           █████                                      5.2%    │
-│  Rust         ████                                       4.4%    │
+│  Go           █████                                      5.1%    │
+│  Rust         █████                                      4.7%    │
 │  C++          ████                                       3.9%    │
 │                                                                  │
-│  ai 443 · llm 400 · ai-agents 252 · mcp 245                      │
-│  machine-learning 225 · claude-code 224 · react 215              │
-│  android 166 · deep-learning 162 · cli 159 · claude 159          │
-│  self-hosted 156 · docker 135 · openai 129 · macos 119           │
+│  ai 446 · llm 411 · ai-agents 266 · mcp 246 · claude-code 229    │
+│  machine-learning 225 · react 216 · android 166                  │
+│  deep-learning 162 · claude 161 · cli 160 · self-hosted 156      │
+│  docker 135 · openai 128 · developer-tools 122 · macos 119       │
 │                                                                  │
 ╰──────────────────────────────────────────────────────────────────╯
 ```
